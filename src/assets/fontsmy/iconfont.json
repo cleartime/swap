@@ -1,0 +1,72 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "774482",
+      "name": "结算",
+      "font_class": "jiesuan",
+      "unicode": "e682",
+      "unicode_decimal": 59010
+    },
+    {
+      "icon_id": "970741",
+      "name": "垃圾箱",
+      "font_class": "lajixiang",
+      "unicode": "e626",
+      "unicode_decimal": 58918
+    },
+    {
+      "icon_id": "1028378",
+      "name": "全部订单",
+      "font_class": "quanbudingdan",
+      "unicode": "e640",
+      "unicode_decimal": 58944
+    },
+    {
+      "icon_id": "1263230",
+      "name": "报表",
+      "font_class": "baobiao",
+      "unicode": "e605",
+      "unicode_decimal": 58885
+    },
+    {
+      "icon_id": "1287694",
+      "name": "钱包",
+      "font_class": "qianbao",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "5383656",
+      "name": "设置",
+      "font_class": "shezhi",
+      "unicode": "e781",
+      "unicode_decimal": 59265
+    },
+    {
+      "icon_id": "11459683",
+      "name": "待办",
+      "font_class": "daiban",
+      "unicode": "e63e",
+      "unicode_decimal": 58942
+    },
+    {
+      "icon_id": "13769970",
+      "name": "组织架构",
+      "font_class": "zuzhijiagou",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    },
+    {
+      "icon_id": "14966522",
+      "name": "快递物流",
+      "font_class": "kuaidiwuliu",
+      "unicode": "e61d",
+      "unicode_decimal": 58909
+    }
+  ]
+}

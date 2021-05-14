@@ -1,0 +1,11 @@
+#app {
+  background: $bg2;
+  max-width: 768px;
+  margin: 0 auto;
+  font-size: 14px;
+  color: $font1;
+  input::-webkit-input-placeholder,
+  textarea::-webkit-input-placeholder {
+    　　color: $font1;
+  }
+}
